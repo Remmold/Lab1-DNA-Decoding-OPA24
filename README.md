@@ -12,5 +12,10 @@ so i figured its something else. i decided to strip each string thus removing th
 there was a match between the sequences and my output from  looping through my list <br>
 also realised there are letters in the sequence that shouldnt be counted but my inital thought is to handle that in the counting later <br>
 
-
+finnished the counting process and created the list of dictionaries aswell as learnt the basics of matplot lib.<br>
+considered breaking this asignment into functions in the end but since its such a small program i felt that there wouldnt be a point to it<br>
+since if my program can handle the "complicated" one it will handle the simple one aswell<br>
+but if i were to create functions i would create one that takes a string and converts its to  a list of sequeces<br>
+another one that would count and return a list of dictionaries containing the informations<br>
+and a third one to handle the output of the graph with perhaps **kwargs that could alter the output <br>
 
