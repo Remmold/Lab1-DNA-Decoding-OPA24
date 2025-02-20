@@ -21,5 +21,5 @@ and a third one to handle the output of the graph with perhaps **kwargs that cou
 
 ---
 ## Update:
-realised asignment was supposed to be in a function format so i quickly updates and made it a function with filepath as parameter
+realised asignment was supposed to be in a function format so i quickly updated and made it a function with filepath as parameter
 
