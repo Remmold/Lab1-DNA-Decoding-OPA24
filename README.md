@@ -19,3 +19,7 @@ but if i were to create functions i would create one that takes a string and con
 another one that would count and return a list of dictionaries containing the informations<br>
 and a third one to handle the output of the graph with perhaps **kwargs that could alter the output <br>
 
+---
+## Update:
+realised asignment was supposed to be in a function format so i quickly updates and made it a function with filepath as parameter
+
